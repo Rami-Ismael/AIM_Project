@@ -110,6 +110,21 @@ Create a semantic search function that will produce an answer to people question
 
 8. Go through [[Haystack]] documentation
 9. Go through [[Pinecone]] documentation
+# Learn 
+[README.md](https://github.com/Rami-Ismael/Toward-Functional-Safety#readme)
+
+## NLP For Semantic Search
+- [ ] Dense Vector
+- [ ] Sentence Transformers with MNR Loss
+- [ ] Domain Transfer
+- [ ] Data Augmentation with BERT
+- [ ] the Art of Asking Question with GenQ
+- [ ] DOmain Adaption with Generative Pseudo-Labeling
+
+# Documentation
+(https://www.pinecone.io/docs/)
+- [ ] Image Similarity
+- [ ] [[Haystack]] Integration
 10. go through [[Weavite]] documentation
 13. Building the semantic search pipeline
 14. I want the pipeline find question and answer pair
