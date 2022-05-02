@@ -107,6 +107,9 @@ https://www.kaggle.com/code/datafan07/disaster-tweets-nlp-eda-bert-with-transfor
 We should a text classfication model in 4 week.
 
 Create a semantic search function that will produce an answer to people question about coding documentation
+Example of Semantic Search being used and providing value 
+- [[ZetaAlpha]](https://www.zeta-alpha.com/)
+- [[Ranking YC Companies with a Neural Net]](https://evjang.com/2022/04/02/yc-rank.html)
 
 8. Go through [[Haystack]] documentation
 9. Go through [[Pinecone]] documentation
@@ -121,7 +124,7 @@ Create a semantic search function that will produce an answer to people question
 	- [ ] the Art of Asking Question with GenQ
 	- [ ] DOmain Adaption with Generative Pseudo-Labeling
 
-	# Documentation
+	## Documentation
 	(https://www.pinecone.io/docs/)
 	- [ ] Image Similarity
 	- [ ] [[Haystack]] Integration
@@ -137,3 +140,10 @@ Codex- Clone that can produce code from a propmpt to code
 Create an semantic search for for meme
 
 Generate meme with diffusion model
+
+Make Money
+
+## Make a list a YouTube they have to watch
+Week 1: https://www.youtube.com/watch?v=aircAruvnKk
+Week 2 : Deep Learning Fundamentals ( https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)
+Week 3: ML Project (https://www.youtube.com/watch?v=pxisK6RMn1s&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=11)
