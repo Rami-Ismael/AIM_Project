@@ -145,5 +145,29 @@ Make Money
 
 ## Make a list a YouTube they have to watch
 Week 1: https://www.youtube.com/watch?v=aircAruvnKk
+
+
+
 Week 2 : Deep Learning Fundamentals ( https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)
+
+
+
 Week 3: ML Project (https://www.youtube.com/watch?v=pxisK6RMn1s&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=11)
+
+**I have some feedback**
+
+We want to improve and update the course iteratively with your feedback. If you have some, please contact
+
+
+**How much background knowledge is needed?**
+
+Some prerequisites:
+
+Good skills in **Python** 🐍
+Basics in **Deep Learning and Pytorch**
+
+If it's not the case yet, you can check these free resources:
+
+- Python: [https://www.udacity.com/course/introduction-to-python--ud1110](https://www.udacity.com/course/introduction-to-python--ud1110)
+- Intro to Deep Learning with PyTorch: [https://www.udacity.com/course/deep-learning-pytorch--ud188](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- PyTorch in 60min: [https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
