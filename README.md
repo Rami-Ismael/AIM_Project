@@ -69,21 +69,32 @@
 			
 			```
 	1. You will download the github issue over this github repository
-		1. PyTorch Lightning
-		2. PyTorch
-		3. Optuna
-		4. Pandas
-		5. Numpy
-		6. Zarr
-		7. Hugging Face Transformers
-		8. Pinecone
-		9. Weavite
-		10. Torch Metrics
-		11. Ray Tune
-		12. Weight and Bias 
+		1. Download the first only 10 PyTorch Lightning ( This is your first challenge) 
+		2. Create a github access key. This allowed to request more  from github from a single ip-address
+			1. Go to setting on github
+			2. Go developer setting in the github settings
+			3. Select Personal access token
+		3. Download the rest of PyTorch Lightning issues
+	2. Dockerize the  code follow this tutorial
+		1. https://www.youtube.com/watch?v=Gjnup-PuquQ&t=45s ( What is docker)
+		2. https://www.youtube.com/watch?v=bi0cKgmRuiA&t=1024s9 ( How to create a docker)
+	3. Modify the code to run through this multiple github repository
+		3. PyTorch
+		4. Optuna
+		5. Pandas
+		6. Numpy
+		7. Zarr
+		8. Hugging Face Transformers
+		9. Pinecone
+		10. Weavite
+		11. Torch Metrics
+		12. Ray Tune
+		13. Weight and Bias 
 		... ( You can add more if you want)
-	4.  The dataset will be store in json format. You must find a python library that can compress the library
-	5.  The dataset will be store in azure.
+	4. redo the docker environment
+	5. Run the docker image
+	7.  The dataset will be store in json format. You must find a python library that can compress the library
+	8.  The dataset will be store in azure.
 2. The second part will be exploring the dataset  using scikit-learn , seaborn 
 	1. to explore the dataset
 		1. Target distribution
